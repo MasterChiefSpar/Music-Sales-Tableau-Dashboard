@@ -1,6 +1,6 @@
 # Music-Sales-Tableau-Dashboard
 
-# Problem Statement 
+## Problem Statement 
 
 A music production company currently wants to know which music genres are the bestsellers in Asia & Europe and current sales statistics and figures in selected Asian and European countries. The company wlould like to know who are the Top 20 artists in Asia & Europe. The company would like to increase its market development efforts before initiating new-store and market expansion.
 
